@@ -1,0 +1,25 @@
+{
+  "name": "Fitness-Tracker",
+  "version": "1.0.0",
+  "description": "A Fitness Tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuapribek/Fitness-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuapribek/Fitness-Tracker/issues"
+  },
+  "homepage": "https://github.com/joshuapribek/Fitness-Tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.12",
+    "morgan": "^1.10.0"
+  }
+}
